@@ -1,3 +1,5 @@
+https://img.shields.io/github/downloads/nay-cat/HonourSaver/total.svg
+
 # Lost Your Baldur's Gate 3 Honor Mode Save? Don't Want to Replay Hours of Gameplay?
 
 With this **user-friendly program**, you can **restore your Honor Mode save** in Baldur's Gate 3 effortlessly.
