@@ -44,7 +44,7 @@ Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com
 
 ### 📹 **Video Tutorial**
 
-👉 [Click here to watch the tutorial video](https://cdn.discordapp.com/attachments/1160680702887612606/1326277588821475390/2025-01-07_20-23-06.mp4?ex=677ed7c2&is=677d8642&hm=d59b10709b751b25af685462a828ef757d42b01ec8ac935f652b9d127fcada50)
+👉 [Click here to download a video](https://cdn.discordapp.com/attachments/1160680702887612606/1326277588821475390/2025-01-07_20-23-06.mp4?ex=677ed7c2&is=677d8642&hm=d59b10709b751b25af685462a828ef757d42b01ec8ac935f652b9d127fcada50)
 
 Any error with your save?
 
