@@ -40,6 +40,7 @@ Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com
    - Your Honor Mode save should now be restored!
 
 ---
+![image](https://github.com/user-attachments/assets/fca688b1-df3e-4742-8f3e-b93b5180fdd3)
 
 ### 📹 **Video Tutorial**
 
