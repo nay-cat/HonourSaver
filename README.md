@@ -1,0 +1,46 @@
+# Lost Your Baldur's Gate 3 Honor Mode Save? Don't Want to Replay Hours of Gameplay?
+
+With this **user-friendly program**, you can **restore your Honor Mode save** in Baldur's Gate 3 effortlessly.
+
+---
+
+> **This tool was created using [LSLib](https://github.com/Norbyte/lslib)**, a powerful utility that allows you to interact with Larian's game files. If you're looking for something more advanced or specific, you may want to explore LSLib directly.
+
+---
+
+### 🎯 **Purpose of the Tool:**
+
+This program is designed to help you recover your **Honor Mode save** without manually modifying game files. It's especially useful for players unfamiliar with the technical tools typically required for this process.
+
+---
+
+## 🛠️ **How to Use the Tool**
+
+Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)** installed if you're using the compressed version.
+
+### 📥 **Download Options**
+- 📦 [Download Compressed Version (Recommended)](https://github.com/nay-cat/HonourSaver/releases/download/release/HonourSaver.rar)  
+- 💾 [Download Direct Executable](https://github.com/nay-cat/HonourSaver/releases/download/executable/HonourSaver.exe)
+
+---
+
+### 🚀 **Steps to Follow**
+1. **Make sure your Honor Mode save is set to "Custom."**  
+   - If the save has already been deleted, this tool will not work. After finishing your save, click **"Continue"**, not **"End Game."**
+   
+2. **Close the game.**
+
+3. **Open the tool:**  
+   - Load your saved games and select the GUID of the Honor Mode save you want to recover. Refer to the image for guidance.
+
+4. **Click "Reactivate Honour Mode":**  
+   - If everything works correctly, you'll see a **"Success"** message.
+
+5. **Launch the game again:**  
+   - Your Honor Mode save should now be restored!
+
+---
+
+### 📹 **Video Tutorial**
+
+👉 [Click here to watch the tutorial video](https://cdn.discordapp.com/attachments/1160680702887612606/1326277588821475390/2025-01-07_20-23-06.mp4?ex=677ed7c2&is=677d8642&hm=d59b10709b751b25af685462a828ef757d42b01ec8ac935f652b9d127fcada50)
