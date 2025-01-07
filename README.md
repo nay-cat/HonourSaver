@@ -26,7 +26,7 @@ Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com
 
 ### 🚀 **Steps to Follow**
 1. **Make sure your Honor Mode save is set to "Custom."**  
-   - If the save has already been deleted, this tool will not work. After finishing your save, click **"Continue"**, not **"End Game."**
+   - If the save has already been deleted, this tool will not work. After finishing your save, click **"Continue"**, not **"Delete save"**
    
 2. **Close the game.**
 
