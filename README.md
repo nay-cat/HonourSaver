@@ -47,7 +47,7 @@ Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com
 
 ### 📹 **Video Tutorial**
 
-👉 ![Video tutorial](https://streamable.com/j1rdxb)
+👉 [Video tutorial](https://streamable.com/j1rdxb)
 
 Any error with your save?
 
