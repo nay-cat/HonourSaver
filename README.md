@@ -1,5 +1,5 @@
 ![downloads](https://img.shields.io/github/downloads/nay-cat/HonourSaver/total.svg)
-
+Donations: https://ko-fi.com/nay
 
 # Lost Your Baldur's Gate 3 Honor Mode Save? Don't Want to Replay Hours of Gameplay?
 
