@@ -18,6 +18,14 @@ This program is designed to help you recover your **Honor Mode save** without ma
 
 ---
 
+---
+
+### 🎯 **Works with modded saves?**
+
+It should work without problems, the tool has been tested in saves with +100 mods and honour mode was restored without problems, 99% sure it does, but obviously it hasn't been tested with all mods so I can't give you a definitive yes.
+
+---
+
 ## 🛠️ **How to Use the Tool**
 
 Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)** installed if you're using the compressed version.
