@@ -61,3 +61,9 @@ Before you start, make sure you have **[.NET 8.0.0](https://dotnet.microsoft.com
 Any error with your save?
 
 When using this tool a backup is created with your profile8.lsf file just in case, if you notice any error when opening the game, simply delete the modified file and remove the “.backup” from the profile8.lsf.backup file name.
+
+### Know Issues
+
+Problems have been documented with Larian Cloud and saves. Sometimes saves still appear as "Custom" but honour mode is activated and the achievement is awarded
+
+The application was tested with Larian Cloud disabled.
