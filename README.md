@@ -22,8 +22,7 @@ This program is designed to help you recover your **Honor Mode save** without ma
 
 ### 🎯 **Works with modded saves?**
 
-It should work without problems, the tool has been tested in saves with +100 mods and honour mode was restored without problems, 99% sure it does, but obviously it hasn't been tested with all mods so I can't give you a definitive yes.
-
+Yes
 ---
 
 ## 🛠️ **How to Use the Tool**
@@ -64,6 +63,7 @@ When using this tool a backup is created with your profile8.lsf file just in cas
 
 ### Know Issues
 
-Problems have been documented with Larian Cloud and saves. Sometimes saves still appear as "Custom" but honour mode is activated and the achievement is awarded
+> Problems have been documented with Larian Cloud and saves. 
+> Sometimes saves still appear as "Custom" but honour mode is activated and the achievement is awarded
 
 The application was tested with Larian Cloud disabled.
